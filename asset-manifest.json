@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/megamiken/prueba-dradiweb.git/static/css/main.81908e90.chunk.css",
+    "main.js": "/megamiken/prueba-dradiweb.git/static/js/main.d7026b44.chunk.js",
+    "main.js.map": "/megamiken/prueba-dradiweb.git/static/js/main.d7026b44.chunk.js.map",
+    "runtime-main.js": "/megamiken/prueba-dradiweb.git/static/js/runtime-main.74ae51ce.js",
+    "runtime-main.js.map": "/megamiken/prueba-dradiweb.git/static/js/runtime-main.74ae51ce.js.map",
+    "static/js/2.ca7ce8e5.chunk.js": "/megamiken/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js",
+    "static/js/2.ca7ce8e5.chunk.js.map": "/megamiken/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js.map",
+    "static/js/3.dc0c20a3.chunk.js": "/megamiken/prueba-dradiweb.git/static/js/3.dc0c20a3.chunk.js",
+    "static/js/3.dc0c20a3.chunk.js.map": "/megamiken/prueba-dradiweb.git/static/js/3.dc0c20a3.chunk.js.map",
+    "index.html": "/megamiken/prueba-dradiweb.git/index.html",
+    "static/css/main.81908e90.chunk.css.map": "/megamiken/prueba-dradiweb.git/static/css/main.81908e90.chunk.css.map",
+    "static/js/2.ca7ce8e5.chunk.js.LICENSE.txt": "/megamiken/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js.LICENSE.txt",
+    "static/media/cloud.0d2eed06.png": "/megamiken/prueba-dradiweb.git/static/media/cloud.0d2eed06.png",
+    "static/media/cloud2.4571ad81.png": "/megamiken/prueba-dradiweb.git/static/media/cloud2.4571ad81.png",
+    "static/media/clouds.2ed0a594.png": "/megamiken/prueba-dradiweb.git/static/media/clouds.2ed0a594.png",
+    "static/media/App.scss": "/megamiken/prueba-dradiweb.git/static/media/uno.3d87168d.jpg",
+    "static/media/rain.69c8ce58.png": "/megamiken/prueba-dradiweb.git/static/media/rain.69c8ce58.png",
+    "static/media/sun.9f7072c4.png": "/megamiken/prueba-dradiweb.git/static/media/sun.9f7072c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ae51ce.js",
+    "static/js/2.ca7ce8e5.chunk.js",
+    "static/css/main.81908e90.chunk.css",
+    "static/js/main.d7026b44.chunk.js"
+  ]
+}
