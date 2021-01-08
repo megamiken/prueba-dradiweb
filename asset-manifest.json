@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/prueba-dradiweb/static/css/main.27acb0ec.chunk.css",
-    "main.js": "/prueba-dradiweb/static/js/main.d7026b44.chunk.js",
-    "main.js.map": "/prueba-dradiweb/static/js/main.d7026b44.chunk.js.map",
-    "runtime-main.js": "/prueba-dradiweb/static/js/runtime-main.5c2eea7a.js",
-    "runtime-main.js.map": "/prueba-dradiweb/static/js/runtime-main.5c2eea7a.js.map",
-    "static/js/2.ca7ce8e5.chunk.js": "/prueba-dradiweb/static/js/2.ca7ce8e5.chunk.js",
-    "static/js/2.ca7ce8e5.chunk.js.map": "/prueba-dradiweb/static/js/2.ca7ce8e5.chunk.js.map",
-    "static/js/3.dc0c20a3.chunk.js": "/prueba-dradiweb/static/js/3.dc0c20a3.chunk.js",
-    "static/js/3.dc0c20a3.chunk.js.map": "/prueba-dradiweb/static/js/3.dc0c20a3.chunk.js.map",
-    "index.html": "/prueba-dradiweb/index.html",
-    "static/css/main.27acb0ec.chunk.css.map": "/prueba-dradiweb/static/css/main.27acb0ec.chunk.css.map",
-    "static/js/2.ca7ce8e5.chunk.js.LICENSE.txt": "/prueba-dradiweb/static/js/2.ca7ce8e5.chunk.js.LICENSE.txt",
-    "static/media/cloud.0d2eed06.png": "/prueba-dradiweb/static/media/cloud.0d2eed06.png",
-    "static/media/cloud2.4571ad81.png": "/prueba-dradiweb/static/media/cloud2.4571ad81.png",
-    "static/media/clouds.2ed0a594.png": "/prueba-dradiweb/static/media/clouds.2ed0a594.png",
-    "static/media/App.scss": "/prueba-dradiweb/static/media/uno.3d87168d.jpg",
-    "static/media/rain.69c8ce58.png": "/prueba-dradiweb/static/media/rain.69c8ce58.png",
-    "static/media/sun.9f7072c4.png": "/prueba-dradiweb/static/media/sun.9f7072c4.png"
+    "main.css": "/prueba-dradiweb.git/static/css/main.39adebb1.chunk.css",
+    "main.js": "/prueba-dradiweb.git/static/js/main.d7026b44.chunk.js",
+    "main.js.map": "/prueba-dradiweb.git/static/js/main.d7026b44.chunk.js.map",
+    "runtime-main.js": "/prueba-dradiweb.git/static/js/runtime-main.9170f9c0.js",
+    "runtime-main.js.map": "/prueba-dradiweb.git/static/js/runtime-main.9170f9c0.js.map",
+    "static/js/2.ca7ce8e5.chunk.js": "/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js",
+    "static/js/2.ca7ce8e5.chunk.js.map": "/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js.map",
+    "static/js/3.dc0c20a3.chunk.js": "/prueba-dradiweb.git/static/js/3.dc0c20a3.chunk.js",
+    "static/js/3.dc0c20a3.chunk.js.map": "/prueba-dradiweb.git/static/js/3.dc0c20a3.chunk.js.map",
+    "index.html": "/prueba-dradiweb.git/index.html",
+    "static/css/main.39adebb1.chunk.css.map": "/prueba-dradiweb.git/static/css/main.39adebb1.chunk.css.map",
+    "static/js/2.ca7ce8e5.chunk.js.LICENSE.txt": "/prueba-dradiweb.git/static/js/2.ca7ce8e5.chunk.js.LICENSE.txt",
+    "static/media/cloud.0d2eed06.png": "/prueba-dradiweb.git/static/media/cloud.0d2eed06.png",
+    "static/media/cloud2.4571ad81.png": "/prueba-dradiweb.git/static/media/cloud2.4571ad81.png",
+    "static/media/clouds.2ed0a594.png": "/prueba-dradiweb.git/static/media/clouds.2ed0a594.png",
+    "static/media/App.scss": "/prueba-dradiweb.git/static/media/uno.3d87168d.jpg",
+    "static/media/rain.69c8ce58.png": "/prueba-dradiweb.git/static/media/rain.69c8ce58.png",
+    "static/media/sun.9f7072c4.png": "/prueba-dradiweb.git/static/media/sun.9f7072c4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c2eea7a.js",
+    "static/js/runtime-main.9170f9c0.js",
     "static/js/2.ca7ce8e5.chunk.js",
-    "static/css/main.27acb0ec.chunk.css",
+    "static/css/main.39adebb1.chunk.css",
     "static/js/main.d7026b44.chunk.js"
   ]
 }
